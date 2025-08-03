@@ -4,6 +4,7 @@
 
   1. Python
   2. Bootstrap
+  3. SQL
 
 
 <!---
