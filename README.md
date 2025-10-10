@@ -1,10 +1,11 @@
 # Hi, I’m Ice
 
-🌱 I’m currently learning:
+🌱 I’m currently working on:
 
   1. Python
   2. Bootstrap
   3. SQL
+  4. JS
 
 
 <!---
