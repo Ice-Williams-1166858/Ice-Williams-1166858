@@ -2,10 +2,13 @@
 
 🌱 I’m currently working on:
 
-  1. Python
-  2. Bootstrap
-  3. SQL
-  4. JS
+  1. Business Analysis & Intelligence
+  2. Data Analysis
+  3. User Experience & Engagement
+  4. Python
+  5. Bootstrap
+  6. SQL
+  7. JS
 
 
 <!---
